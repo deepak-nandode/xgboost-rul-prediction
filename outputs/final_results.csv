@@ -1,0 +1,3 @@
+model,test_rmse
+Linear Regression,20.810505680085576
+XGBoost (tuned),18.549057534020175
